@@ -110,3 +110,7 @@ Commit
 3. **@TransactionalEventListener**
 
 ---
+References:
+1. https://www.javainuse.com/spring/springtrans
+2. https://youtu.be/IVHcWTegWyM?si=haOMctZ3oZbNloq9
+3. https://youtu.be/H2it0SI7cSo?si=yltUHaZlawQkmrhI
